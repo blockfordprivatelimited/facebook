@@ -6,8 +6,6 @@ developmenth sanke ish there
 
 
 
-development
-
 
 
 here python file are availble
