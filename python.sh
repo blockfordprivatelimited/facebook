@@ -6,7 +6,7 @@ developmenth sanke ish there
 
 
 
->>>>>>> development
+development
 
 
 
